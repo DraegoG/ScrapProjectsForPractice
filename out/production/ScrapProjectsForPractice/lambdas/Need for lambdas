@@ -1,0 +1,6 @@
+Issues with OOP:
+1. We can't have a method which is not part of any class
+In the Classes Greeting, GreetingRunner and MorningGreet, we wanted to pass an action to a method but instead we have to
+first define a class and then pas an object which is having that action/method
+
+2.
